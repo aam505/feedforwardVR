@@ -3,7 +3,7 @@
 ## Intro
 This repo contains the implementation for VR feedforward and three demos showcasing practical applications of feedforward. The implementation is made in Unity for Oculus Quest 1&2.
 
-Folder builds\ contains 2 apks which can be installed on the Oculus headset to load a demo application of feedforward. The demo shows users how to start a car in VR using feedforward. One apk includes interrupts, which means the user can stop feedforward once they touch the previewing objects. 
+Folder \builds\ contains 3 apks which can be installed on the Oculus headset to load a demo application of feedforward. The car demos show users how to start a car in VR using feedforward. One apk includes interrupts, which means the user can stop feedforward once they touch the previewing objects. The third apk (door_lens_demo), contains the feedforard lens example applied to a virtual door. The lens implementation is not present in this repository.  
  
  Please use SideQuest to install the apk’s on Oculus. While starting the applications, please look straight ahead as the demos are calibrated to your height. If there is a problem with calibration, load the Unity project and adjust the values in
 
